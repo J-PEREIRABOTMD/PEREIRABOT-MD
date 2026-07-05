@@ -9,9 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.18",
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "node-cache": "^5.1.2",
     "pino": "^10.3.1",
     "qrcode-terminal": "^0.12.0"
   }
